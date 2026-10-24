@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "image": {
+      "thumbnail": "/image-waffle-thumbnail.jpg",
+      "desktop": "/image-waffle-desktop.jpg"
+    },
+    "name": "Waffle with Berries",
+    "category": "Waffle",
+    "price": 6.5,
+    "count": 0
+  },
+  {
+    "id": 2,
+    "image": {
+      "thumbnail": "/image-creme-brulee-thumbnail.jpg",
+      "desktop": "/image-creme-brulee-desktop.jpg"
+    },
+    "name": "Vanilla Bean Crème Brûlée",
+    "category": "Crème Brûlée",
+    "price": 7.0,
+    "count": 0
+  },
+  {
+    "id": 3,
+    "image": {
+      "thumbnail": "/image-macaron-thumbnail.jpg",
+      "desktop": "/image-macaron-desktop.jpg"
+    },
+    "name": "Macaron Mix of Five",
+    "category": "Macaron",
+    "price": 8.0,
+    "count": 0
+  },
+  {
+    "id": 4,
+    "image": {
+      "thumbnail": "/image-tiramisu-thumbnail.jpg",
+      "desktop": "/image-tiramisu-desktop.jpg"
+    },
+    "name": "Classic Tiramisu",
+    "category": "Tiramisu",
+    "price": 5.5,
+    "count": 0
+  },
+  {
+    "id": 5,
+    "image": {
+      "thumbnail": "/image-baklava-thumbnail.jpg",
+      "desktop": "/image-baklava-desktop.jpg"
+    },
+    "name": "Pistachio Baklava",
+    "category": "Baklava",
+    "price": 4.0,
+    "count": 0
+  },
+  {
+    "id": 6,
+    "image": {
+      "thumbnail": "/image-meringue-thumbnail.jpg",
+      "desktop": "/image-meringue-desktop.jpg"
+    },
+    "name": "Lemon Meringue Pie",
+    "category": "Pie",
+    "price": 5.0,
+    "count": 0
+  },
+  {
+    "id": 7,
+    "image": {
+      "thumbnail": "/image-cake-thumbnail.jpg",
+      "desktop": "/image-cake-desktop.jpg"
+    },
+    "name": "Red Velvet Cake",
+    "category": "Cake",
+    "price": 4.5,
+    "count": 0
+  },
+  {
+    "id": 8,
+    "image": {
+      "thumbnail": "/image-brownie-thumbnail.jpg",
+      "desktop": "/image-brownie-desktop.jpg"
+    },
+    "name": "Salted Caramel Brownie",
+    "category": "Brownie",
+    "price": 5.5,
+    "count": 0
+  },
+  {
+    "id": 9,
+    "image": {
+      "thumbnail": "/image-panna-cotta-thumbnail.jpg",
+      "desktop": "/image-panna-cotta-desktop.jpg"
+    },
+    "name": "Vanilla Panna Cotta",
+    "category": "Panna Cotta",
+    "price": 6.5,
+    "count": 0
+  }
+]
