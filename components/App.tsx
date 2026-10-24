@@ -98,7 +98,7 @@ export default function App() {
   return (
     <div className='flex flex-col items-center lg:items-start w-full lg:flex-row justify-between'>
       <div>
-        <h1 className="text-4xl font-bold">Desserts</h1>
+        <h1 className="text-4xl font-bold mb-3">Desserts</h1>
         <div>
           <Products
             PlusCount={PlusCount}
